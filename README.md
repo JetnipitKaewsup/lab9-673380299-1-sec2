@@ -8,7 +8,7 @@
 
 ---
 # รายงาน Lab 9
-[รายงาน Lab 9 673380299-1 sec.2]()
+[รายงาน Lab 9 673380299-1 sec.2](https://github.com/JetnipitKaewsup/lab9-673380299-1-sec2/blob/main/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%20Lab%209_673380299-1.pdf)
 
 ---
 
